@@ -1,5 +1,0 @@
-class MatchMaker
-
-	#todo
-
-end
